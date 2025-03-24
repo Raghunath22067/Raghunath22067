@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... projects no payments needed
-- 📫 How to reach me ... Gmail(Raghunathgowda4647@gmail.com)
+- 📫 How to reach me ... Gmail (Raghunathgowda4647@gmail.com)
 - 😄 Pronouns: ... English, Kannada, Hindi, Tamil
 - ⚡ Fun fact: ... I dont know......
 
