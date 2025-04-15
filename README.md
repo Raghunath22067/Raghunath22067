@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghunath22067
+- 👋 Hi, I’m Raghunath
 - 👀 I’m interested in ... java 
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... projects no payments needed
