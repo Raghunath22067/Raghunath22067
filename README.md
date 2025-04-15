@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Raghunath22067
-- 👀 I’m interested in ... Python 
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... java 
+- 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... projects no payments needed
-- 📫 How to reach me ... Gmail (Raghunathgowda4647@gmail.com)
-- 😄 Pronouns: ... English, Kannada, Hindi, Tamil
+- 📫 How to reach me ... Gmail (rvmodifiworld@gmail.com)
+- 😄 Pronouns: ... English, Kannada, Hindi, Tamil,telugu.
 - ⚡ Fun fact: ... I dont know......
 
 <!---
