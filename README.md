@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... projects no payments needed
 - 📫 How to reach me ... Gmail (rvmodifiworld@gmail.com)
 - 😄 Pronouns: ... English, Kannada, Hindi, Tamil,telugu.
-- ⚡ Fun fact: ... I dont know......
+- ⚡ Fun fact:
 
 <!---
 Raghunath22067/Raghunath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
