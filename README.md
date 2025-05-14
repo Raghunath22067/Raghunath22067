@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Raghunath
 - 👀 I’m interested in ... java 
 - 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... projects no payments needed
-- 📫 How to reach me ... Gmail (rvmodifiworld@gmail.com)
-- 😄 Pronouns: ... English, Kannada, Hindi, Tamil,telugu.
+- 💞️ I’m looking to collaborate on ... 
+- 😄 Pronouns: ...
 - ⚡ Fun fact:
 
 <!---
